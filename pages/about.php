@@ -50,8 +50,5 @@ $base_url = get_base_url();
 
     <!-- Footer Section -->
     <?php include __DIR__ . '../../components/footer.php'; ?>
-
-    <script src="<?php echo get_base_url(); ?>public/js/jquery-3.5.1.min.js" type="text/javascript"></script>
-    <script src="<?php echo get_base_url(); ?>public/js/index.js" type="text/javascript"></script>
 </body>
 </html>
