@@ -44,7 +44,7 @@ $base_url = get_base_url();
                                     </div>
 
                                     <div id="w-node-ba881e29-fefd-d2f4-f31c-47e31ea49744-62fad666" class="home-hero_image-wrapper">
-                                        <img src="https://via.placeholder.com/916x980" alt="Placeholder Image" class="home-hero_image"/>
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/my-digital-project-aa48f.appspot.com/o/web%2F916x980.svg?alt=media&token=337aad92-ecb2-42a0-bf0d-2bff4937ac82" alt="Placeholder Image" class="home-hero_image"/>
                                     </div>
                                 </div>
                             </div>
@@ -59,7 +59,7 @@ $base_url = get_base_url();
                                 <div class="padding-section-small">
                                     <div class="w-layout-grid feature_component">
                                         <div id="w-node-_41753888-1434-d2ad-cd31-4612fd6daffd-62fad666" class="feature_image-wrapper">
-                                            <img src="https://via.placeholder.com/800x1099" alt="Placeholder Image" class="feature_image"/>
+                                            <img src="https://firebasestorage.googleapis.com/v0/b/my-digital-project-aa48f.appspot.com/o/web%2F800x1099.svg?alt=media&token=a5f58a34-3dac-41a9-a4b5-fbaff2db1851" alt="Placeholder Image" class="feature_image"/>
                                         </div>
                                         <div class="feature_content">
                                             <div class="margin-bottom margin-small">
@@ -90,7 +90,7 @@ $base_url = get_base_url();
                                         </div>
                                     </div>
                                     <div id="w-node-_7c855d61-bb35-3f87-d1d8-c8673404615e-62fad666" class="feature_image-wrapper">
-                                        <img src="https://via.placeholder.com/800x1099" alt="Placeholder Image" class="feature_image"/>
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/my-digital-project-aa48f.appspot.com/o/web%2F800x1099.svg?alt=media&token=a5f58a34-3dac-41a9-a4b5-fbaff2db1851" alt="Placeholder Image" class="feature_image"/>
                                     </div>
                                 </div>
                             </div>
@@ -104,7 +104,7 @@ $base_url = get_base_url();
                             <div class="padding-section-small">
                                 <div class="w-layout-grid feature_component">
                                     <div id="w-node-_4d06d975-c9fb-c596-597a-a4f2def5adea-62fad666" class="feature_image-wrapper">
-                                        <img src="https://via.placeholder.com/800x1099" alt="Placeholder Image" class="feature_image"/>
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/my-digital-project-aa48f.appspot.com/o/web%2F800x1099.svg?alt=media&token=a5f58a34-3dac-41a9-a4b5-fbaff2db1851" alt="Placeholder Image" class="feature_image"/>
                                     </div>
                                     <div class="feature_content">
                                         <div class="margin-bottom margin-small">
@@ -138,7 +138,7 @@ $base_url = get_base_url();
                                         <p>Lorem ipsum dolor sit amet.</p>
                                     </div>
                                     <div id="w-node-e501ae82-f472-a26c-1f04-afd78a9d5493-62fad666" class="feature_image-wrapper">
-                                        <img src="https://via.placeholder.com/800x1099" alt="Placeholder Image" class="feature_image"/>
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/my-digital-project-aa48f.appspot.com/o/web%2F800x1099.svg?alt=media&token=a5f58a34-3dac-41a9-a4b5-fbaff2db1851" alt="Placeholder Image" class="feature_image"/>
                                     </div>
                                 </div>
                             </div>
