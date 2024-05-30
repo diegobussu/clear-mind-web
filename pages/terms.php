@@ -22,7 +22,7 @@ $base_url = get_base_url();
         <div class="section">
             <h3 class="heading-style-h3">ARTICLE 1 - LES MENTIONS LÉGALES</h3>
             <div class="text-weight-bold padding-xxsmall">L’édition et la direction de la publication du site clear-mind.fr est assurée par CLEAR MIND, domicilié au 40 RUE DU CHEMIN VERT 75011 PARIS.</div>
-            <div class="text-weight-bold padding-xxsmall">Numéro de téléphone : 01 55 07 07 65</div>
+            <div class="text-weight-bold padding-xxsmall">Numéro de téléphone : 01 55 07 07 XX</div>
             <div class="text-weight-bold padding-xxsmall">L&#8217;hébergeur du site clear-mind.fr est la société OVH, dont le siège social est situé au SASU 2 RUE KELLERMANN 59100 ROUBAIX, avec le numéro de téléphone : 0972101007.</div>
         </div>
 
