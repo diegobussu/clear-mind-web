@@ -39,7 +39,7 @@
                             </div>
                             <div class="footer3_link-list">
                                 <div class="title-small">Support</div>
-                                <a href="<?php echo get_base_url(); ?>index#testimonials" class="footer-link">Avis</a>
+                                <a href="<?php echo get_base_url(); ?>pages/review" class="footer-link">Avis</a>
                                 <a href="<?php echo get_base_url(); ?>pages/help" class="footer-link">Centre d&#x27;aide</a>
                                 <a href="<?php echo get_base_url(); ?>pages/contact" class="footer-link">Nous contacter</a>
                             </div>

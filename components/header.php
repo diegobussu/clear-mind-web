@@ -8,7 +8,7 @@
             <nav role="navigation" class="navbar1_menu is-page-height-tablet w-nav-menu">
                 <div class="navbar1_link-wrapper">
                     <a href="<?php echo get_base_url(); ?>pages/about" class="nav-link-2">À propos</a>
-                    <a href="<?php echo get_base_url(); ?>index#testimonials" class="nav-link-2">Avis</a>
+                    <a href="<?php echo get_base_url(); ?>pages/review" class="nav-link-2">Avis</a>
                     <a href="<?php echo get_base_url(); ?>pages/help" style="cursor: pointer;" class="nav-link-2">Aide<a>
                 </div>
                 <div class="navbar1_menu-buttons">
