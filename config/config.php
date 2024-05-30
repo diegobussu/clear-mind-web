@@ -1,14 +1,15 @@
-<?php 
-    function get_base_url() {
-        // Compte le nombre de barres obliques (/) dans le chemin du script en cours d'exécution
-        // Cela donne le niveau de profondeur du script dans la hiérarchie des dossiers
-        $depth = substr_count($_SERVER['SCRIPT_NAME'], '/') - 1;
+<?php
+// Détecter l'environnement et définir l'URL de base
+if (strpos($_SERVER['HTTP_HOST'], 'localhost') !== false) {
+    // Environnement local (MAMP)
+    define('BASE_URL', '/clear-mind-web/');
+} else {
+    // Environnement de production (OVH)
+    define('BASE_URL', '/');
+}
 
-        // Génère un chemin relatif en remontant de la profondeur calculée
-        // str_repeat('../', $depth) crée une chaîne contenant "../" répété autant de fois que la profondeur
-        $relative_path = str_repeat('../', $depth);
-
-        // Retourne le chemin relatif calculé
-        return $relative_path;
-    }
+// Fonction pour obtenir l'URL de base
+function get_base_url() {
+    return BASE_URL;
+}
 ?>
