@@ -42,29 +42,8 @@ $base_url = get_base_url();
     <!-- Footer Section -->
     <?php include __DIR__ . '../../components/footer.php'; ?>
 
-    <script src="<?php echo get_base_url(); ?>public/js/jquery-3.5.1.min.js" type="text/javascript"></script>
-    <script>
-        $(document).ready(function(){
-            $('#contactForm').submit(function(e){
-                e.preventDefault();
-                $.ajax({
-                    type: 'POST',
-                    url: '<?php echo get_base_url(); ?>public/script/send_email.php',
-                    data: $(this).serialize(),
-                    success: function(response){
-                        if(response == 'success'){
-                            $('#formMessage').html('<p class="success">Votre message a été envoyé avec succès.</p>');
-                            $('#contactForm')[0].reset();
-                        } else {
-                            $('#formMessage').html('<p class="error">Une erreur s\'est produite lors de l\'envoi du message.</p>');
-                        }
-                        setTimeout(function(){
-                            $('#formMessage').empty();
-                        }, 3000);
-                    }
-                });
-            });
-        });
-    </script>
+    <!-- Script Section -->
+    <?php include __DIR__ . '../../components/script.php'; ?>
+    <script src="<?php echo get_base_url(); ?>public/js/menu-toogle.js" type="text/javascript"></script>
 </body>
 </html>

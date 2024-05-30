@@ -6,23 +6,23 @@
             </a>
             <nav role="navigation" class="navbar1_menu is-page-height-tablet w-nav-menu">
                 <div class="navbar1_link-wrapper">
-                    <a href="<?php echo get_base_url(); ?>pages/about" class="nav-link-2">À propos</a>
-                    <a href="<?php echo get_base_url(); ?>pages/review" class="nav-link-2">Avis</a>
-                    <a href="<?php echo get_base_url(); ?>pages/help" style="cursor: pointer;" class="nav-link-2">Aide<a>
+                    <a href="<?php echo get_base_url(); ?>pages/about" class="nav-link-2 mobile-menu-item">À propos</a>
+                    <a href="<?php echo get_base_url(); ?>pages/review" class="nav-link-2 mobile-menu-item">Avis</a>
+                    <a href="<?php echo get_base_url(); ?>pages/help" style="cursor: pointer;" class="nav-link-2 mobile-menu-item">Aide</a>
                 </div>
                 <div class="navbar1_menu-buttons">
                     <a href="#" class="app-link button is-small is-secondary w-button">Télécharger</a>
                 </div>
             </nav>
-            <div class="navbar1_menu-button w-nav-button">
+
+            <div class="navbar1_menu-button w-nav-button" id="menuIcon">
                 <div class="menu-icon1">
                     <div class="menu-icon1_line-top"></div>
-                    <div class="menu-icon1_line-middle">
-                        <div class="menu-icon_line-middle-inner"></div>
-                    </div>
+                    <div class="menu-icon1_line-middle"></div>
                     <div class="menu-icon1_line-bottom"></div>
                 </div>
             </div>
+            
         </div>
     </div>
 </header>

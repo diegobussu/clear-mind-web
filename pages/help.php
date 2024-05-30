@@ -85,5 +85,8 @@ $base_url = get_base_url();
 
     <!-- Footer Section -->
     <?php include __DIR__ . '../../components/footer.php'; ?>
+
+    <!-- Script Section -->
+    <?php include __DIR__ . '../../components/script.php'; ?>
 </body>
 </html>

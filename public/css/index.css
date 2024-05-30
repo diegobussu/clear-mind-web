@@ -4223,7 +4223,7 @@ html {
   .navbar1_logo-link:hover {
     color: var(--untitled-ui-gray600)
   }
-  
+
   .navbar1_menu {
     align-items: center;
     display: flex;
@@ -7077,3 +7077,75 @@ html {
     font-weight: bold;
   }
   
+
+
+
+  @media screen and (max-width: 479px) {
+    .navbar1_menu {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background-color: black;
+        padding: 20px;
+    }
+
+    .mobile-menu-item {
+        display: block;
+        color: #000;
+        text-decoration: none;
+        margin-bottom: 10px;
+    }
+
+    #menuIcon {
+        cursor: pointer;
+    }
+  }
+
+  @media screen and (max-width: 767px) {
+    .navbar1_menu {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background-color: black;
+        padding: 20px;
+    }
+
+    .mobile-menu-item {
+        display: block;
+        color: #000;
+        text-decoration: none;
+        margin-bottom: 10px;
+    }
+
+    #menuIcon {
+        cursor: pointer;
+    }
+  }
+
+  @media screen and (max-width: 991px) {
+    .navbar1_menu {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background-color: black;
+        padding: 20px;
+    }
+
+    .mobile-menu-item {
+        display: block;
+        color: #000;
+        text-decoration: none;
+        margin-bottom: 10px;
+    }
+
+    #menuIcon {
+        cursor: pointer;
+    }
+  }
+
