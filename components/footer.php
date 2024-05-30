@@ -28,8 +28,9 @@
                             <div class="footer3_link-list">
                                 <div class="title-small">Entreprise</div>
                                 <a href="<?php echo get_base_url(); ?>pages/about" class="footer-link">À propos</a>
+                                <a href="<?php echo get_base_url(); ?>pages/cgu" class="footer-link">C.G.U</a>
+                                <a href="<?php echo get_base_url(); ?>pages/cgv" class="footer-link">C.G.V</a>
                                 <a href="<?php echo get_base_url(); ?>pages/legal" class="footer-link">Mentions légales</a>
-                                <a href="<?php echo get_base_url(); ?>pages/terms" class="footer-link">Conditions d&#x27;utilisation</a>
                             </div>
                             <div class="footer3_link-list">
                                 <div class="title-small">Réseaux</div>

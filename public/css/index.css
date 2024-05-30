@@ -2813,6 +2813,7 @@ html {
     color: #969696;
     margin-top: 12px;
     margin-bottom: 6px;
+    margin-right: -50px;
     font-family: Visuelt pro,sans-serif;
     font-size: 14px;
     font-weight: 400;
@@ -4287,7 +4288,7 @@ html {
     grid-auto-columns: 100%;
     align-items: flex-start;
     justify-items: start;
-    display: flex
+    display: flex;
   }
   
   .footer_logo-text {

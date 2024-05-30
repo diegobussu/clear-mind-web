@@ -26,7 +26,7 @@ $base_url = get_base_url();
 
         <div class="section">
             <h3 class="heading-style-h3">ARTICLE 1 - L'EDITEUR</h3>
-            <div class="text-weight-bold padding-xxsmall">L'édition du Site est assurée par CLEAR MIND au capital de XXX € euros, immatriculée au Registre du Commerce et des Sociétés de Nanterre sous le numéro B 456 224 XXX dont le siège social est situé au 40 RUE DU CHEMIN VERT 75011 PARIS.</div>
+            <div class="text-weight-bold padding-xxsmall">L'édition du Site est assurée par CLEAR MIND au capital de XXX € euros, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro B 456 186 XXX dont le siège social est situé au 40 RUE DU CHEMIN VERT 75011 PARIS.</div>
             <div class="text-weight-bold padding-xxsmall">Numéro de téléphone : 01 55 07 07 XX</div>
             <div class="text-weight-bold padding-xxsmall">Adresse e-mail : contact@clear-mind.fr</div>
             <div class="text-weight-bold padding-xxsmall">N° de TVA intracommunautaire : FR64134057XXX</div>
