@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d6ab7f;
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #6a576d;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 16.4px;
+      }
+    </style>
+  </defs>
+  <g id="red_dimond_premium" data-name="red dimond premium">
+    <path id="Path_140" data-name="Path 140" class="cls-1" d="M236.7,236.8l-130.6,163.2,293.8,391.8,293.9-391.8-130.6-163.2H236.7Z"/>
+    <path id="Path_141" data-name="Path 141" class="cls-2" d="M204,60.7l49,84.8M60.6,204.1l84.9,49M739.2,204.1l-84.8,49M595.8,60.7l-49,84.8M399.9,8.2v97.9M693.8,400H106.1M372.3,236.8l-30.1,163.3,57.7,391.8,57.7-391.8-30.1-163.3h-55.2ZM312.3,236.8l-76.4,163.2,164,391.8,164-391.8-76.4-163.3h-175.2ZM595.8,530.6l97.9-130.6-130.5-163.2H236.7l-130.6,163.2,97.9,130.6M253,595.9l146.9,195.9,147-195.9"/>
+  </g>
+</svg>
