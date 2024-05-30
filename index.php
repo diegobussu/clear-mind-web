@@ -32,11 +32,11 @@ $base_url = get_base_url();
                                         <div class="margin-top margin-medium">
                                             <div class="button-group">
                                                 <div class="home-hero_app-button-wrapper">
-                                                    <a href="#" target="_blank" class="link-style_app w-inline-block app-link">
-                                                        <img src="public/img/apple-store.svg" width="167" alt="Download on the App Store button."/>
+                                                    <a href="#" target="_blank" class="link-style_app w-inline-block">
+                                                        <img src="<?php echo get_base_url(); ?>public/img/apple-store.svg" width="167" alt="Download on the App Store button."/>
                                                     </a>
-                                                    <a href="#" target="_blank" class="link-style_app w-inline-block app-link">
-                                                        <img src="public/img/google-play.svg" width="175" alt="Download on the Google Play button."/>
+                                                    <a href="#" target="_blank" class="link-style_app w-inline-block">
+                                                        <img src="<?php echo get_base_url(); ?>public/img/google-play.svg" width="175" alt="Download on the Google Play button."/>
                                                     </a>
                                                 </div>
                                             </div>
@@ -158,7 +158,7 @@ $base_url = get_base_url();
                                             <div class="mask w-slider-mask">
                                                 <div class="slide-3 w-slide">
                                                     <div class="testimonial-slide">
-                                                        <img src="public/img/memoji01.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/memoji01.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
                                                         <div class="testimonial-content">
                                                             <div class="testimonial-quote">
                                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -169,12 +169,12 @@ $base_url = get_base_url();
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <img src="public/img/appstore.svg" alt="Apple store logo." title="Apple store" class="store-logo"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/appstore.svg" alt="Apple store logo." title="Apple store" class="store-logo"/>
                                                     </div>
                                                 </div>
                                                 <div class="w-slide">
                                                     <div class="testimonial-slide">
-                                                        <img src="public/img/memoji02.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/memoji02.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
                                                         <div class="testimonial-content">
                                                             <div class="testimonial-quote">
                                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -185,12 +185,12 @@ $base_url = get_base_url();
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <img src="public/img/appstore.svg" alt="Apple store logo." title="Apple store" class="store-logo"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/appstore.svg" alt="Apple store logo." title="Apple store" class="store-logo"/>
                                                     </div>
                                                 </div>
                                                 <div class="w-slide">
                                                     <div class="testimonial-slide">
-                                                        <img src="public/img/memoji03.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/memoji03.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
                                                         <div class="testimonial-content">
                                                             <div class="testimonial-quote">
                                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -201,12 +201,12 @@ $base_url = get_base_url();
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <img src="public/img/appstore.svg" alt="Apple store logo." title="Apple store" class="store-logo"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/appstore.svg" alt="Apple store logo." title="Apple store" class="store-logo"/>
                                                     </div>
                                                 </div>
                                                 <div class="w-slide">
                                                     <div class="testimonial-slide">
-                                                        <img src="public/img/memoji04.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/memoji04.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
                                                         <div class="testimonial-content">
                                                             <div class="testimonial-quote">
                                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -217,12 +217,12 @@ $base_url = get_base_url();
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <img src="public/img/playstore.svg" alt="Play store logo." title="Play store" class="store-logo"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/playstore.svg" alt="Play store logo." title="Play store" class="store-logo"/>
                                                     </div>
                                                 </div>
                                                 <div class="w-slide">
                                                     <div class="testimonial-slide">
-                                                        <img src="public/img/memoji05.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/memoji05.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
                                                         <div class="testimonial-content">
                                                             <div class="testimonial-quote">
                                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -233,12 +233,12 @@ $base_url = get_base_url();
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <img src="public/img/playstore.svg" alt="Play store logo." title="Play store" class="store-logo"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/playstore.svg" alt="Play store logo." title="Play store" class="store-logo"/>
                                                     </div>
                                                 </div>
                                                 <div class="w-slide">
                                                     <div class="testimonial-slide">
-                                                        <img src="public/img/memoji06.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/memoji06.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
                                                         <div class="testimonial-content">
                                                             <div class="testimonial-quote">
                                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -249,12 +249,12 @@ $base_url = get_base_url();
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <img src="public/img/appstore.svg" alt="Apple store logo." title="Apple store" class="store-logo"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/appstore.svg" alt="Apple store logo." title="Apple store" class="store-logo"/>
                                                     </div>
                                                 </div>
                                                 <div class="w-slide">
                                                     <div class="testimonial-slide">
-                                                        <img src="public/img/memoji07.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/memoji07.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
                                                         <div class="testimonial-content">
                                                             <div class="testimonial-quote">
                                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -265,12 +265,12 @@ $base_url = get_base_url();
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <img src="public/img/playstore.svg" alt="Play store logo." title="Play store" class="store-logo"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/playstore.svg" alt="Play store logo." title="Play store" class="store-logo"/>
                                                     </div>
                                                 </div>
                                                 <div class="w-slide">
                                                     <div class="testimonial-slide">
-                                                        <img src="public/img/memoji08.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/memoji08.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
                                                         <div class="testimonial-content">
                                                             <div class="testimonial-quote">
                                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -281,12 +281,12 @@ $base_url = get_base_url();
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <img src="public/img/playstore.svg" alt="Play store logo." title="Play store" class="store-logo"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/playstore.svg" alt="Play store logo." title="Play store" class="store-logo"/>
                                                     </div>
                                                 </div>
                                                 <div class="w-slide">
                                                     <div class="testimonial-slide">
-                                                        <img src="public/img/memoji09.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/memoji09.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
                                                         <div class="testimonial-content">
                                                             <div class="testimonial-quote">
                                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -297,12 +297,12 @@ $base_url = get_base_url();
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <img src="public/img/appstore.svg" alt="Apple store logo." title="Apple store" class="store-logo"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/appstore.svg" alt="Apple store logo." title="Apple store" class="store-logo"/>
                                                     </div>
                                                 </div>
                                                 <div class="w-slide">
                                                     <div class="testimonial-slide">
-                                                        <img src="public/img/memoji11.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/memoji11.webp" alt="Memoji of a clear mind user." class="testimonial-image-two"/>
                                                         <div class="testimonial-content">
                                                             <div class="testimonial-quote">
                                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -313,7 +313,7 @@ $base_url = get_base_url();
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <img src="public/img/playstore.svg" alt="Play store logo." title="Play store" class="store-logo"/>
+                                                        <img src="<?php echo get_base_url(); ?>public/img/playstore.svg" alt="Play store logo." title="Play store" class="store-logo"/>
                                                     </div>
                                                 </div>
                                             </div>
@@ -344,11 +344,11 @@ $base_url = get_base_url();
                                     <p class="text-size-xxlarge">Obtenez gratuitement un journal accessible et sécurisé, une aide et un suivi personnalisé !</p>
                                     <div class="margin-top margin-medium">
                                         <div class="button-group is-center">
-                                            <a href="#" target="_blank" class="link-style_app w-inline-block app-link">
-                                                <img src="public/img/apple-store.svg" width="167" alt="Download on the App Store button."/>
+                                            <a href="#" target="_blank" class="link-style_app w-inline-block">
+                                                <img src="<?php echo get_base_url(); ?>public/img/apple-store.svg" width="167" alt="Download on the App Store button."/>
                                             </a>
-                                            <a href="#" target="_blank" class="link-style_app w-inline-block app-link">
-                                                <img src="public/img/google-play.svg" width="175" alt="Download on the Google Play button."/>
+                                            <a href="#" target="_blank" class="link-style_app w-inline-block">
+                                                <img src="<?php echo get_base_url(); ?>public/img/google-play.svg" width="175" alt="Download on the Google Play button."/>
                                             </a>
                                         </div>
                                     </div>
@@ -364,6 +364,6 @@ $base_url = get_base_url();
         <?php include __DIR__ . '/components/footer.php'; ?>
     </div>
 
-    <script src="public/js/jquery-3.5.1.min.js" type="text/javascript"></script>
-    <script src="public/js/index.js" type="text/javascript"></script>
+    <script src="<?php echo get_base_url(); ?>public/js/jquery-3.5.1.min.js" type="text/javascript"></script>
+    <script src="<?php echo get_base_url(); ?>public/js/index.js" type="text/javascript"></script>
 </body>
