@@ -7,7 +7,7 @@
                     <div class="w-layout-grid footer3_top-wrapper">
                         <div id="w-node-_64082343-1001-a08b-5ba8-db0d1dac4406-1dac4400" class="footer3_left-wrapper">
                             <div class="margin-bottom margin-small">
-                                <a href="<?php echo get_base_url(); ?>index.php" class="footer3_logo-link w-nav-brand">
+                                <a href="<?php echo get_base_url(); ?>index" class="footer3_logo-link w-nav-brand">
                                     <img src="<?php echo get_base_url(); ?>public/img/logo-black.svg" alt="Clear Mind logo" width="167"/>
                                 </a>
                                 <div class="text-size-xsmall text-color-light-grey">Copyright © 2024 Clear Mind app inc.</div>
@@ -28,9 +28,9 @@
                         <div class="w-layout-grid footer3_menu-wrapper">
                             <div class="footer3_link-list">
                                 <div class="title-small">Entreprise</div>
-                                <a href="<?php echo get_base_url(); ?>pages/about.php" class="footer-link">À propos</a>
-                                <a href="<?php echo get_base_url(); ?>pages/legal.php" class="footer-link">Mentions légales</a>
-                                <a href="<?php echo get_base_url(); ?>pages/terms.php" class="footer-link">Conditions d&#x27;utilisation</a>
+                                <a href="<?php echo get_base_url(); ?>pages/about" class="footer-link">À propos</a>
+                                <a href="<?php echo get_base_url(); ?>pages/legal" class="footer-link">Mentions légales</a>
+                                <a href="<?php echo get_base_url(); ?>pages/terms" class="footer-link">Conditions d&#x27;utilisation</a>
                             </div>
                             <div class="footer3_link-list">
                                 <div class="title-small">Réseaux</div>
@@ -39,9 +39,9 @@
                             </div>
                             <div class="footer3_link-list">
                                 <div class="title-small">Support</div>
-                                <a href="<?php echo get_base_url(); ?>index.php#testimonials" class="footer-link">Avis</a>
-                                <a href="<?php echo get_base_url(); ?>pages/help.php" class="footer-link">Centre d&#x27;aide</a>
-                                <a href="<?php echo get_base_url(); ?>pages/contact.php" class="footer-link">Nous contacter</a>
+                                <a href="<?php echo get_base_url(); ?>index#testimonials" class="footer-link">Avis</a>
+                                <a href="<?php echo get_base_url(); ?>pages/help" class="footer-link">Centre d&#x27;aide</a>
+                                <a href="<?php echo get_base_url(); ?>pages/contact" class="footer-link">Nous contacter</a>
                             </div>
                         </div>
                     </div>
