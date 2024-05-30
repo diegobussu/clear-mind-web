@@ -32,10 +32,10 @@ $base_url = get_base_url();
                                         <div class="margin-top margin-medium">
                                             <div class="button-group">
                                                 <div class="home-hero_app-button-wrapper">
-                                                    <a href="#" target="_blank" class="link-style_app w-inline-block">
+                                                    <a href="#" class="link-style_app w-inline-block">
                                                         <img src="<?php echo get_base_url(); ?>public/img/apple-store.svg" width="167" alt="Download on the App Store button."/>
                                                     </a>
-                                                    <a href="#" target="_blank" class="link-style_app w-inline-block">
+                                                    <a href="#" class="link-style_app w-inline-block">
                                                         <img src="<?php echo get_base_url(); ?>public/img/google-play.svg" width="175" alt="Download on the Google Play button."/>
                                                     </a>
                                                 </div>
@@ -344,10 +344,10 @@ $base_url = get_base_url();
                                     <p class="text-size-xxlarge">Obtenez gratuitement un journal accessible et sécurisé, une aide et un suivi personnalisé !</p>
                                     <div class="margin-top margin-medium">
                                         <div class="button-group is-center">
-                                            <a href="#" target="_blank" class="link-style_app w-inline-block">
+                                            <a href="#" class="link-style_app w-inline-block">
                                                 <img src="<?php echo get_base_url(); ?>public/img/apple-store.svg" width="167" alt="Download on the App Store button."/>
                                             </a>
-                                            <a href="#" target="_blank" class="link-style_app w-inline-block">
+                                            <a href="#" class="link-style_app w-inline-block">
                                                 <img src="<?php echo get_base_url(); ?>public/img/google-play.svg" width="175" alt="Download on the Google Play button."/>
                                             </a>
                                         </div>
