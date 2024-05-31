@@ -14,7 +14,6 @@
                     <a href="#" class="app-link button is-small is-secondary w-button">Télécharger</a>
                 </div>
             </nav>
-
             <div class="navbar1_menu-button w-nav-button" id="menuIcon">
                 <div class="menu-icon1">
                     <div class="menu-icon1_line-top"></div>
@@ -22,7 +21,6 @@
                     <div class="menu-icon1_line-bottom"></div>
                 </div>
             </div>
-            
         </div>
     </div>
 </header>
