@@ -1,7 +1,38 @@
-html {
+  @font-face {
+    font-family: 'Quicksand-Bold';
+    src: url('../font/Quicksand-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Quicksand-Light';
+    src: url('../font/Quicksand-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Quicksand-Medium';
+    src: url('../font/Quicksand-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Quicksand-Regular';
+    src: url('../font/Quicksand-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Quicksand-SemiBold';
+    src: url('../font/Quicksand-SemiBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  html {
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
-    font-family: sans-serif
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
   }
   
   body {
@@ -217,7 +248,7 @@ html {
     background-color: #fff;
     min-height: 100%;
     margin: 0;
-    font-family: Arial,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-size: 14px;
     line-height: 20px
   }
@@ -1358,7 +1389,7 @@ html {
     -webkit-tap-highlight-color: transparent;
     background: rgba(0,0,0,.9);
     outline: 0;
-    font-family: Helvetica Neue,Helvetica,Ubuntu,Segoe UI,Verdana,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 300;
@@ -2075,7 +2106,7 @@ html {
   
   body {
     color: #1a1b1f;
-    font-family: Visuelt pro,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5
@@ -2370,7 +2401,7 @@ html {
     margin-bottom: 0;
     margin-left: auto;
     margin-right: auto;
-    font-family: Visuelt pro,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-style: normal;
     display: block;
     overflow: visible
@@ -2393,7 +2424,7 @@ html {
     padding-top: 5px;
     padding-left: 0;
     padding-right: 0;
-    font-family: Avenirltstd book;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-size: 17px
   }
   
@@ -2404,7 +2435,7 @@ html {
     max-width: 600px;
     margin: 40px auto 0 0;
     padding-left: 0;
-    font-family: Visuelt pro,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-size: 2.5rem
   }
   
@@ -2461,7 +2492,7 @@ html {
     text-transform: none;
     padding-top: 9px;
     padding-bottom: 9px;
-    font-family: Visuelt pro,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 20px
@@ -2483,7 +2514,7 @@ html {
   .navigation-item.w--current {
     opacity: 1;
     color: #000;
-    font-family: Visuelt pro,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 700
@@ -2594,7 +2625,7 @@ html {
     text-align: center;
     margin-left: 10px;
     margin-right: 10px;
-    font-family: Visuelt pro,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-size: 14px;
     font-weight: 400
   }
@@ -2626,7 +2657,7 @@ html {
   
   .field-label {
     text-transform: none;
-    font-family: Visuelt pro,sans-serif
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
   }
   
   .navbar {
@@ -2665,7 +2696,7 @@ html {
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
-    font-family: Visuelt pro,sans-serif
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
   }
   
   .body-2 {
@@ -2720,7 +2751,7 @@ html {
   
   .text-block-18 {
     text-align: center;
-    font-family: Visuelt pro,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-size: 22px;
     font-weight: 700;
     line-height: 130%
@@ -2732,7 +2763,7 @@ html {
     flex-direction: column;
     align-items: center;
     padding-top: 4px;
-    font-family: Visuelt pro,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-size: 15px;
     line-height: 150%;
     display: flex
@@ -2749,7 +2780,7 @@ html {
     justify-content: space-between;
     align-items: center;
     padding: .75rem .75rem .75rem 2rem;
-    font-family: Visuelt pro,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     display: flex;
     position: relative;
   }
@@ -2764,7 +2795,7 @@ html {
   
   .testimonial-quote {
     margin-bottom: 2rem;
-    font-family: Visuelt pro,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-size: 1.5rem;
     font-weight: 400
   }
@@ -2803,7 +2834,7 @@ html {
     letter-spacing: 0;
     text-transform: none;
     margin-bottom: 12px;
-    font-family: Visuelt pro,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-size: 14px;
     font-weight: 400;
     line-height: 16px
@@ -2814,7 +2845,7 @@ html {
     margin-top: 12px;
     margin-bottom: 6px;
     margin-right: -50px;
-    font-family: Visuelt pro,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-size: 14px;
     font-weight: 400;
     line-height: 16px;
@@ -2829,7 +2860,7 @@ html {
   .navbar-wrapper-2 {
     justify-content: space-between;
     align-items: center;
-    font-family: Visuelt pro,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-weight: 700;
     display: flex
   }
@@ -2849,7 +2880,7 @@ html {
     margin-left: 5px;
     margin-right: 5px;
     padding: 5px .625rem;
-    font-family: Visuelt pro,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-size: .875rem;
     font-weight: 500;
     line-height: 20px;
@@ -2879,13 +2910,13 @@ html {
   }
   
   .text-block-20 {
-    font-family: Visuelt pro,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-size: 24px;
     font-weight: 700
   }
   
   .list-item-2 {
-    font-family: Visuelt pro,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-weight: 400
   }
   
@@ -3035,7 +3066,7 @@ html {
     background-color: #1a1b1f;
     border-radius: 8px;
     padding: 12px 25px;
-    font-family: Visuelt pro,sans-serif;
+    font-family: 'Quicksand-Medium', Arial, sans-serif;
     font-size: 12px;
     line-height: 20px;
     transition: background-color .4s,opacity .4s,color .4s
