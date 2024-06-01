@@ -1,28 +1,25 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (isset($_POST['email'])) {
-        // Récupérer et nettoyer l'adresse e-mail de la requête
-        $email = filter_var($_POST["email"], FILTER_SANITIZE_EMAIL);
+        // Récupérer l'adresse e-mail de la requête
+        $email = $_POST["email"];
 
-        // Vérifier si l'adresse e-mail est valide
-        if (!filter_var($email, FILTER_VALIDATE_EMAIL) === false) {
-            // Paramètres de l'e-mail
-            $to = "contact@clear-mind.fr";
-            $subject = "Nouvelle demande de version bêta";
-            $message = "Une nouvelle demande de version bêta a été soumise avec l'adresse e-mail : $email";
+        // Paramètres de l'e-mail
+        $to = "contact@clear-mind.fr";
+        $subject = "Nouvelle demande de version bêta";
+        $message = "Une nouvelle demande de version bêta a été soumise avec l'adresse e-mail : $email";
 
-            // En-têtes de l'e-mail
-            $headers = "From: $email\r\n";
-            $headers .= "Reply-To: $email\r\n";
+        // En-têtes de l'e-mail
+        $headers = "From: $email\r\n";
+        $headers .= "Reply-To: $email\r\n";
+        $headers .= "MIME-Version: 1.0\r\n";
+        $headers .= "Content-type: text/plain; charset=UTF-8\r\n";
 
-            // Envoi de l'e-mail
-            if (mail($to, $subject, $message, $headers)) {
-                echo "E-mail envoyé avec succès.";
-            } else {
-                echo "Erreur lors de l'envoi de l'e-mail.";
-            }
+        // Envoi de l'e-mail
+        if (mail($to, $subject, $message, $headers)) {
+            echo "E-mail envoyé avec succès.";
         } else {
-            echo "Adresse e-mail non valide.";
+            echo "Erreur lors de l'envoi de l'e-mail.";
         }
     } else {
         echo "Erreur lors de l'envoi de l'e-mail.";

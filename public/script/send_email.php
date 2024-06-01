@@ -20,6 +20,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // En-têtes de l'e-mail
         $headers = "From: $email\r\n";
         $headers .= "Reply-To: $email\r\n";
+        $headers .= "MIME-Version: 1.0\r\n";
+        $headers .= "Content-type: text/plain; charset=UTF-8\r\n";
 
         // Envoi de l'e-mail
         if (mail($to, $subject, $body, $headers)) {
