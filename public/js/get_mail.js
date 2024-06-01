@@ -31,6 +31,8 @@ modalContent.appendChild(emailInput);
 modalContent.appendChild(submitButton);
 modal.appendChild(modalContent);
 
+modal.style.zIndex = "1000";
+
 // Ajout de la modal à la fin du corps du document
 document.body.appendChild(modal);
 
