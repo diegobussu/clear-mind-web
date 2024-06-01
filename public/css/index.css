@@ -7100,12 +7100,12 @@
   }
   
   .success {
-    color: green;
+    color: #6331FF;
     font-weight: bold;
   }
   
   .error {
-    color: red;
+    color: #B08FFF;
     font-weight: bold;
   }
   
@@ -7180,4 +7180,3 @@
         cursor: pointer;
     }
   }
-

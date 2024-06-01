@@ -18,7 +18,7 @@ $base_url = get_base_url();
     <main class="margin-large text-align-center">
         <h3 class="heading-style-h3 margin-large">Nous contacter</h3>
         <div class="contact-form">
-            <form id="contactForm">
+            <form id="contactForm" action="<?php echo get_base_url(); ?>public/script/send_email.php" method="POST">
                 <div class="form-group">
                     <input type="text" name="name" placeholder="Nom" required>
                 </div>
@@ -44,6 +44,6 @@ $base_url = get_base_url();
 
     <!-- Script Section -->
     <?php include __DIR__ . '../../components/script.php'; ?>
-    <script src="<?php echo get_base_url(); ?>public/js/menu-toogle.js" type="text/javascript"></script>
+    <script src="<?php echo get_base_url(); ?>public/js/contact.js" type="text/javascript"></script>
 </body>
 </html>

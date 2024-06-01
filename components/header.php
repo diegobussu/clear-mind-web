@@ -11,7 +11,7 @@
                     <a href="<?php echo get_base_url(); ?>pages/help" style="cursor: pointer;" class="nav-link-2 mobile-menu-item">Aide</a>
                 </div>
                 <div class="navbar1_menu-buttons">
-                    <a href="#" class="app-link button is-small is-secondary w-button">Télécharger</a>
+                    <button class="button is-small is-secondary w-button app-link">Télécharger</button>
                 </div>
             </nav>
             <div class="navbar1_menu-button w-nav-button" id="menuIcon">
