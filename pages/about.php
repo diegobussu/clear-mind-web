@@ -21,9 +21,6 @@ $base_url = get_base_url();
         </div>
     </main>
 
-    <!-- App Section -->
-    <?php include __DIR__ . '../../components/section_app.php'; ?>
-
     <!-- Footer Section -->
     <?php include __DIR__ . '../../components/footer.php'; ?>
 
