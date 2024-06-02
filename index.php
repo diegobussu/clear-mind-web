@@ -32,12 +32,7 @@ $base_url = get_base_url();
                                         <div class="margin-top margin-medium">
                                             <div class="button-group">
                                                 <div class="home-hero_app-button-wrapper">
-                                                    <a href="#" class="link-style_app w-inline-block">
-                                                        <img src="https://firebasestorage.googleapis.com/v0/b/my-digital-project-aa48f.appspot.com/o/web%2Fapple-store.svg?alt=media&token=feb65001-ec0b-4966-838d-4c21a8867e8a" width="167" alt="Download on the App Store button."/>
-                                                    </a>
-                                                    <a href="#" class="link-style_app w-inline-block">
-                                                        <img src="https://firebasestorage.googleapis.com/v0/b/my-digital-project-aa48f.appspot.com/o/web%2Fgoogle-play.svg?alt=media&token=8c186ea1-4f25-46fa-8b3a-b79f5920bf7c" width="175" alt="Download on the Google Play button."/>
-                                                    </a>
+                                                    <button class="button is-small is-secondary w-button app-link">Obtenir la version bêta (.apk)</button>
                                                 </div>
                                             </div>
                                         </div>
@@ -63,10 +58,10 @@ $base_url = get_base_url();
                                         </div>
                                         <div class="feature_content">
                                             <div class="margin-bottom margin-small">
-                                                <h2 class="heading-style-h3">Lorem ipsum dolor sit amet.</h2>
+                                                <h2 class="heading-style-h3">Suivez vos humeurs au quotidien</h2>
                                             </div>
                                             <p>
-                                                Lorem ipsum dolor sit amet.<br/>
+                                                Indiquez quotidiennement votre humeur pour avoir un suivi en temps réel et percez à jour les cycles que vous traversez. Retracez vos moments passés pour mieux surmonter les traces du quotidien.<br/>
                                             </p>
                                         </div>
                                     </div>
@@ -79,13 +74,10 @@ $base_url = get_base_url();
                                     <div class="feature_content">
                                         <div class="feature_content">
                                             <div class="margin-bottom margin-small">
-                                                <div class="text-style-pre-header">Lorem ipsum dolor sit amet</div>
-                                            </div>
-                                            <div class="margin-bottom margin-small">
-                                                <h2 class="heading-style-h3">Lorem ipsum dolor sit amet.</h2>
+                                                <h2 class="heading-style-h3">Un journal intime interactif</h2>
                                             </div>
                                             <p>
-                                                Lorem ipsum dolor sit amet.<br/>
+                                                Décrivez vos ressentis à l&#39;aide de questions guidées pour réellement prendre le temps avec vous-mêmes et mieux vous comprendre. À travers vos écrits, découvrez les schémas qui vous empêchent d&#39;avancer.<br/>
                                             </p>
                                         </div>
                                     </div>
@@ -108,13 +100,10 @@ $base_url = get_base_url();
                                     </div>
                                     <div class="feature_content">
                                         <div class="margin-bottom margin-small">
-                                            <div class="text-style-pre-header">Lorem ipsum dolor sit amet</div>
-                                        </div>
-                                        <div class="margin-bottom margin-small">
-                                            <h2 class="heading-style-h3">Lorem ipsum dolor sit amet.</h2>
+                                            <h2 class="heading-style-h3">Des guides personnalisés</h2>
                                         </div>
                                         <p>
-                                            Lorem ipsum dolor sit amet.<br/>
+                                            Grâce à nos guides de conseil conçus par des psychologues et des experts de la santé mentale, apprenez à revivre avec vous-mêmes. Lisez, enquêtez, apprenez et exploitez ces guides personnalisés pour comprendre ce qui vous fait souffrir.<br/>
                                         </p>
                                     </div>
                                 </div>
@@ -130,12 +119,9 @@ $base_url = get_base_url();
                                 <div class="w-layout-grid feature_component">
                                     <div class="feature_content">
                                         <div class="margin-bottom margin-small">
-                                            <div class="text-style-pre-header">Lorem ipsum dolor sit amet</div>
+                                            <h2 class="heading-style-h3">Un premier pas vers la thérapie.</h2>
                                         </div>
-                                        <div class="margin-bottom margin-small">
-                                            <h2 class="heading-style-h3">Lorem ipsum dolor sit amet.</h2>
-                                        </div>
-                                        <p>Lorem ipsum dolor sit amet.</p>
+                                        <p>Allez encore plus loin avec nos exercices de concentration et nos méthodes pour travailler efficacement. Relâchez le stress et soulagez les tensions liées au travail.</p>
                                     </div>
                                     <div id="w-node-e501ae82-f472-a26c-1f04-afd78a9d5493-62fad666" class="feature_image-wrapper">
                                         <img src="https://firebasestorage.googleapis.com/v0/b/my-digital-project-aa48f.appspot.com/o/web%2F800x1099.svg?alt=media&token=a5f58a34-3dac-41a9-a4b5-fbaff2db1851" alt="Placeholder Image" class="feature_image"/>
