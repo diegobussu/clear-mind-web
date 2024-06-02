@@ -49,5 +49,4 @@ function showReview(index) {
     dots[index].classList.add('active');
 }
 
-// Initial review
 showReview(0);
