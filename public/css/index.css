@@ -7303,3 +7303,30 @@ textarea:required {
     text-align: center;
   }
 }
+
+.help-article {
+  cursor: pointer;
+  width: 50%;
+  margin: 20px auto;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+.help-article p {
+  display: none;
+}
+
+.return-help {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.return-img {
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.return-img:hover {
+  transform: scale(1.4);
+}
