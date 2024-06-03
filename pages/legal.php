@@ -25,8 +25,8 @@ $base_url = get_base_url();
         </div>
 
         <div class="section">
-            <h3 class="heading-style-h3">ARTICLE 1 - L'EDITEUR</h3>
-            <div class="text-weight-bold padding-xxsmall">L'édition du Site est assurée par CLEAR MIND au capital de XXX € euros, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro B 456 186 XXX dont le siège social est situé au 40 RUE DU CHEMIN VERT 75011 PARIS.</div>
+            <h3 class="heading-style-h3">ARTICLE 1 - L&#39;EDITEUR</h3>
+            <div class="text-weight-bold padding-xxsmall">L&#39;édition du Site est assurée par CLEAR MIND au capital de XXX € euros, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro B 456 186 XXX dont le siège social est situé au 40 RUE DU CHEMIN VERT 75011 PARIS.</div>
             <div class="text-weight-bold padding-xxsmall">Numéro de téléphone : 01 55 07 07 XX</div>
             <div class="text-weight-bold padding-xxsmall">Adresse e-mail : contact@clear-mind.fr</div>
             <div class="text-weight-bold padding-xxsmall">N° de TVA intracommunautaire : FR64134057XXX</div>
@@ -34,13 +34,13 @@ $base_url = get_base_url();
         </div>
 
         <div class="section">
-            <h3 class="heading-style-h3">ARTICLE 2 - L'HEBERGEUR</h3>
-            <div class="text-weight-bold padding-xxsmall">L'hébergeur du Site est la société OVH, dont le siège social est situé au SASU 2 RUE KELLERMANN 59100 ROUBAIX, avec le numéro de téléphone : 0972101007 ou l'adresse e-mail : cil@ovh.net</div>
+            <h3 class="heading-style-h3">ARTICLE 2 - L&#39;HEBERGEUR</h3>
+            <div class="text-weight-bold padding-xxsmall">L&#39;hébergeur du Site est la société OVH, dont le siège social est situé au SASU 2 RUE KELLERMANN 59100 ROUBAIX, avec le numéro de téléphone : 0972101007 ou l&#39;adresse e-mail : cil@ovh.net</div>
         </div>
 
         <div class="section">
             <h3 class="heading-style-h3">ARTICLE 3 - ACCES AU SITE</h3>
-            <div class="text-weight-bold padding-xxsmall">Le Site est accessible en tout endroit, 7j/7, 24h/24 sauf cas de force majeure, interruption programmée ou non et pouvant découlant d’une nécessité de maintenance. En cas de modification, interruption ou suspension du Site, l'Editeur ne saurait être tenu responsable.</div>
+            <div class="text-weight-bold padding-xxsmall">Le Site est accessible en tout endroit, 7j/7, 24h/24 sauf cas de force majeure, interruption programmée ou non et pouvant découlant d’une nécessité de maintenance. En cas de modification, interruption ou suspension du Site, l&#39;Editeur ne saurait être tenu responsable.</div>
         </div>
     </main>
 

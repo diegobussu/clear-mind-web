@@ -32,7 +32,7 @@ $base_url = get_base_url();
                 <div class="help-block">
                     <img src="https://firebasestorage.googleapis.com/v0/b/my-digital-project-aa48f.appspot.com/o/web%2Ffeatures.svg?alt=media&token=29763224-f751-4fbb-aa1a-855e165c9b9d" class="help-image" alt="Features icon">
                     <h5 class="heading-style-h5">Personnalisation</h5>
-                    <p class="text-size-large text-color-grey">Explorez diverses options de personnalisation pour adapter l'application à vos besoins.</p>
+                    <p class="text-size-large text-color-grey">Explorez diverses options de personnalisation pour adapter l&#39;application à vos besoins.</p>
                     <div class="text-style-pre-header">5 articles</div>
                 </div>
             </a>
@@ -71,7 +71,7 @@ $base_url = get_base_url();
                 <div class="help-block">
                     <img src="https://firebasestorage.googleapis.com/v0/b/my-digital-project-aa48f.appspot.com/o/web%2Fother.svg?alt=media&token=7e408839-e140-492f-9cf2-f840e66a95e2" class="help-image" alt="Other icon">
                     <h5 class="heading-style-h5">Divers</h5>
-                    <p class="text-size-large text-color-grey">Retrouvez une variété d'articles sur des sujets divers liés à l'application.</p>
+                    <p class="text-size-large text-color-grey">Retrouvez une variété d&#39;articles sur des sujets divers liés à l&#39;application.</p>
                     <div class="text-style-pre-header">7 articles</div>
                 </div>
             </a>
