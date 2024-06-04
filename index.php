@@ -39,7 +39,7 @@ $base_url = get_base_url();
                                     </div>
 
                                     <div id="w-node-ba881e29-fefd-d2f4-f31c-47e31ea49744-62fad666" class="home-hero_image-wrapper">
-                                        <img src="https://firebasestorage.googleapis.com/v0/b/my-digital-project-aa48f.appspot.com/o/web%2F0.svg?alt=media&token=f33d19c7-7f54-4858-9dec-40114df0d5ee" alt="Placeholder Image" class="home-hero_image"/>
+                                        <img src="https://firebasestorage.googleapis.com/v0/b/my-digital-project-aa48f.appspot.com/o/web%2F0.png?alt=media&token=e03bba8a-b358-41ea-b076-5a638a39b95d" alt="Placeholder Image" class="home-hero_image"/>
                                     </div>
                                 </div>
                             </div>
