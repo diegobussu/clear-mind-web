@@ -9,6 +9,8 @@ $base_url = get_base_url();
 <!-- Head Section -->
 <?php include __DIR__ . '../../components/head.php'; ?>
 
+<title>Clear Mind - Aide</title>
+
 <body class="body-2">
     <!-- Header Section -->
     <?php include __DIR__ . '../../components/header.php'; ?>
