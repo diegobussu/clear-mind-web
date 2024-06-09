@@ -10,7 +10,7 @@
                     <p class="text-size-xxlarge">Obtenez gratuitement un journal accessible et sécurisé, une aide et un suivi personnalisé !</p>
                     <div class="margin-top margin-medium">
                         <div class="button-group is-center">
-                            <button class="button is-small is-secondary w-button app-link">Obtenir la version bêta (.apk)</button>
+                            <a href="https://github.com/diegobussu/clear-mind-app/releases/tag/v1.0.0" target="_blank" class="button is-small is-secondary w-button">Obtenir la version bêta (.apk)</a>
                         </div>
                     </div>
                 </div>

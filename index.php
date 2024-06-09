@@ -32,7 +32,7 @@ $base_url = get_base_url();
                                         <div class="margin-top margin-medium">
                                             <div class="button-group">
                                                 <div class="home-hero_app-button-wrapper">
-                                                    <button class="button is-small is-secondary w-button app-link">Obtenir la version bêta (.apk)</button>
+                                                    <a href="https://github.com/diegobussu/clear-mind-app/releases/tag/v1.0.0" target="_blank" class="button is-small is-secondary w-button app-link">Obtenir la version bêta (.apk)</a>
                                                 </div>
                                             </div>
                                         </div>
